@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "83noke3qMxpEoeeafK0FXaXrDM14g2NN1UmB/GYxwdgVArzpetYtlSjCWdBg7c0xvZJo+qngi+66Rg4oHW2ftg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nugo\\Desktop\\To-Do-App\\To-Do-App-Back\\To-Do-App-Back\\To-Do-App-Back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nugo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nugo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nugo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nugo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nugo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nugo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

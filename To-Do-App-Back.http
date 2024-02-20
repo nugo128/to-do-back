@@ -1,0 +1,6 @@
+@To_Do_App_Back_HostAddress = http://localhost:5289
+
+GET {{To_Do_App_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
