@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("To-Do-App-Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6aea09331f4d2aef62215de3aec3f12841e0b50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403465079a511ca72ea704c9284a4a75724c8291")]
 [assembly: System.Reflection.AssemblyProductAttribute("To-Do-App-Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("To-Do-App-Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
