@@ -52,6 +52,11 @@ namespace To_Do_App_Back.Controllers
                 return BadRequest();
             }
 
+            if (string.IsNullOrEmpty(task.Name) || string.IsNullOrEmpty(task.Status))
+            {
+                return BadRequest("Name and Status cannot be blank.");
+            }
+
             _context.Entry(task).State = EntityState.Modified;
 
             try
@@ -78,6 +83,11 @@ namespace To_Do_App_Back.Controllers
         [HttpPost]
         public async Task<ActionResult<Task>> PostTask(Task task)
         {
+            if (string.IsNullOrEmpty(task.Name) || string.IsNullOrEmpty(task.Status))
+            {
+                return BadRequest("Name and Status cannot be blank.");
+            }
+
             _context.Tasks.Add(task);
             await _context.SaveChangesAsync();
 

@@ -8,7 +8,7 @@ namespace To_Do_App_Back.Models
         [Key]
         public int Id { get; set; }
 
-        [Column(TypeName = "nvarchar(50)")] 
+        [Column(TypeName = "nvarchar(255)")] 
         public string Name { get; set; } = "";
         [Column(TypeName = "nvarchar(30)")]
         public string Status { get; set; } = "";
